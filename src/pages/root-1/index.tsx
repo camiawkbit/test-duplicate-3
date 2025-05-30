@@ -6,6 +6,7 @@ export default function Page() {
     <>
       <Head>
         <title>Root 1</title>
+        <meta name="description" content="Description Test" />
       </Head>
       <Hero
         t1={
